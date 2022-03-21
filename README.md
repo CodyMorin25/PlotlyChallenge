@@ -3,7 +3,7 @@
 
 ## Purpose
 
-The pupose of this project is to take samples given to us in a json file about different bacteria samples from peoples belly buttons and putting the information in a html with a bar, bubble, and a gauge chart to better look at the data.
+The pupose of this project is to take data samples given to us in a json file about different bacteria samples from peoples belly buttons and putting the information in a html with a bar, bubble, and a gauge chart to better look at the data.
 
 ## Results
 
