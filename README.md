@@ -7,7 +7,7 @@ The pupose of this project is to take data samples given to us in a json file ab
 
 ## Results
 
-In the intital image after creating the html and having all the data show up this is what it will initially look like:
+In the intital image after creating the html and having all the data show up this is what the inital charts will look like:
 
 ![image](https://github.com/CodyMorin25/PlotlyChallenge/blob/main/images/initaldata.png)
 
